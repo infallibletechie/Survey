@@ -87,7 +87,7 @@
 
             <div class="form-group">
                 <label for="age">Age:</label>
-                <input type="number" id="age" name="age" min="18" max="100" placeholder="Your age">
+                <input type="number" id="age" name="age" min="18" max="100" value="25">
             </div>
 
             <div class="form-group">
@@ -106,7 +106,7 @@
 
             <div class="form-group">
                 <label for="favorite_feature">What is your favorite feature?</label>
-                <select id="favorite_feature" name="favorite_feature">
+                <select id="favorite_feature" name="favorite_feature" value="price">
                     <option value="">-- Please select --</option>
                     <option value="ease_of_use">Ease of Use</option>
                     <option value="customer_support">Customer Support</option>
