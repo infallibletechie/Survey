@@ -143,7 +143,7 @@
                 <textarea id="comments" name="comments" rows="5" placeholder="Your comments here..."></textarea>
             </div>
 
-            <button type="submit">Submit Survey</button>
+            <button onclick="onSurveySubmit()">Submit Survey</button>
         </form>
     </div>
 </body>
