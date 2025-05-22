@@ -93,7 +93,7 @@
             <div class="form-group">
                 <label>How would you rate our product/service?</label>
                 <div class="radio-group">
-                    <input type="radio" id="rating_excellent" name="rating" value="excellent" required>
+                    <input type="radio" id="rating_excellent" name="rating" value="excellent" required checked>
                     <label for="rating_excellent">Excellent</label>
                     <input type="radio" id="rating_good" name="rating" value="good">
                     <label for="rating_good">Good</label>
