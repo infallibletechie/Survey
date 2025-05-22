@@ -85,12 +85,12 @@
         <form action="#" method="POST">
             <div class="form-group">
                 <label for="name">Name:</label>
-                <input type="text" id="name" name="name" value="Magulan" required>
+                <input type="text" id="name" name="name" value="Magulan Duraipandian" required>
             </div>
 
             <div class="form-group">
                 <label for="email">Email:</label>
-                <input type="email" id="email" name="email" value="Duraipandian" required>
+                <input type="email" id="email" name="email" value="magulan@dinfallibletechie.com" required>
             </div>
 
             <div class="form-group">
@@ -127,7 +127,7 @@
             <div class="form-group">
                 <label>Which of the following improvements would you like to see? (Select all that apply)</label>
                 <div class="checkbox-group">
-                    <input type="checkbox" id="improve_features" name="improvements[]" value="more_features">
+                    <input type="checkbox" id="improve_features" name="improvements[]" value="more_features" checked>
                     <label for="improve_features">More features</label><br>
                     <input type="checkbox" id="improve_performance" name="improvements[]" value="better_performance">
                     <label for="improve_performance">Better performance</label><br>
