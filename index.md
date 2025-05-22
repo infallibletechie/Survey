@@ -70,6 +70,14 @@
             background-color: #0056b3;
         }
     </style>
+    <script>
+        function onSurveySubmit() {
+            
+            console.log( 'Start::: Survey Submit' );
+            console.log( 'End::: Survey Submit' );
+            
+        }
+    </script>
 </head>
 <body>
     <div class="container">
